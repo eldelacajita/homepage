@@ -1,5 +1,5 @@
-# [Homepage](https://danggoodcode.com/startpage)
+# [Inicio](https://inicio.lacajita.es)
 
-<a href="https://www.patreon.com/danggoodcode"><img src="https://img.shields.io/badge/Patreon-Support%20my%20work-orange?style=for-the-badge&logo=patreon"/></a>
+Página de inicio basada [en esta de Jared Jones ](https://github.com/Jaredk3nt/homepage).
 
 ![homepage](https://i.redd.it/cbnzq36zj3601.gif)
